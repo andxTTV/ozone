@@ -143,6 +143,7 @@ GEM
     nio4r (2.5.9)
     nokogiri (1.14.3-x64-mingw-ucrt)
       racc (~> 1.4)
+    pg (1.5.3-x64-mingw-ucrt)
     popper_js (2.11.7)
     public_suffix (5.0.1)
     puma (5.6.5)
@@ -245,6 +246,7 @@ DEPENDENCIES
   jquery-ui-rails
   jquery-validation-rails
   json (~> 2.6, >= 2.6.3)
+  pg (~> 1.5, >= 1.5.2)
   puma (~> 5.0)
   rails (~> 7.0.4, >= 7.0.4.3)
   rails-ujs (~> 0.1.0)
